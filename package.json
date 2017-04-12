@@ -1,0 +1,19 @@
+{
+  "name": "lets-code",
+  "version": "1.0.0",
+  "description": "JP Dillingham Class",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btwatts/lets-code.git"
+  },
+  "author": "Byron Watts",
+  "license": "GNU 3.0",
+  "bugs": {
+    "url": "https://github.com/btwatts/lets-code/issues"
+  },
+  "homepage": "https://github.com/btwatts/lets-code#readme"
+}
