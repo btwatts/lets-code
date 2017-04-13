@@ -195,7 +195,7 @@ describe("API set", function() {
 
       var count = JSON.parse(result.text);
 
-      count.current.should.equal(1);
+      count.current.should.equal(42);
 
       done();
     });
